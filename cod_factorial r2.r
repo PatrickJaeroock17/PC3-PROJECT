@@ -202,8 +202,4 @@ cat("\n============================================================\n")
 cat("  ANÁLISIS COMPLETADO EXITOSAMENTE\n")
 cat("============================================================\n")
 
-# nosesoloescribo
-# y ahora escribo mas
-# y ahoramaaaas
-#loquequiero
-#aaskas
+
